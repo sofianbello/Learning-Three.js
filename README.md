@@ -1,2 +1,2 @@
 # Learning-Three.js
-With Bruno Simon
+With the master of Three.js Bruno Simon
