@@ -2,7 +2,7 @@
 precision mediump float;
 #endif
 
-uniform float u_time;
+// uniform float u_time;
 uniform vec3 u_DepthColor;
 uniform vec3 u_SurfaceColor;
 uniform float u_ColorOffset;
