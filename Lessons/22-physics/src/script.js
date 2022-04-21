@@ -61,10 +61,10 @@ debugObject.reset = () =>
         scene.remove(object.mesh)
     }
 }
-gui.add(debugObject, 'reset')
 gui.add(debugObject, 'createBoth')
 gui.add(debugObject, 'createCube')
 gui.add(debugObject, 'createSphere')
+gui.add(debugObject, 'reset')
 
 /**
  * Base
