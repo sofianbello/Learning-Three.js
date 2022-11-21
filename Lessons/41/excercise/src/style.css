@@ -1,0 +1,19 @@
+.cute-title
+{
+    color: cornsilk;
+    background-color: darksalmon;
+}
+.cute-paragraph
+{
+    color: coral;
+    background-color: floralwhite;
+}
+.cute-clicker
+{
+    color: cornsilk;
+    font-size: 5vw;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: bolder;
+    background-color: darksalmon;
+}
