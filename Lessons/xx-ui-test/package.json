@@ -24,7 +24,7 @@
     "stats.js": "^0.17.0",
     "style-loader": "^3.3.1",
     "three": "^0.137.5",
-    "webpack": "^5.68.0",
+    "webpack": "^5.94.0",
     "webpack-merge": "^5.8.0"
   },
   "devDependencies": {
